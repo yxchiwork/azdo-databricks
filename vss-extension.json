@@ -1,9 +1,9 @@
 {
     "manifestVersion": 1,
-    "id": "azdo-databricks",
-    "name": "DevOps for Azure Databricks",
-    "version": "0.1.17",
-    "publisher": "riserrad",
+    "id": "databricks-rerun-job",
+    "name": "DevOps for Azure Databricks modified",
+    "version": "0.1.1",
+    "publisher": "yxchi",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
